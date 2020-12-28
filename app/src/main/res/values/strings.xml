@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMRetrofit</string>
+    <string name="property">Property_Image</string>
+    <string name="property_pricing">80L - 1.2Cr</string>
+    <string name="bhk">2BHK</string>
+    <string name="contact">Contact</string>
+</resources>
